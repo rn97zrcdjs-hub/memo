@@ -18,4 +18,4 @@ The honest answer is that our defensible ground is independence plus remediation
 
 **What I'd want to exist to do this at 10x**
 
-**An automatic "trace pack."** Point it at a prospect's public help center plus a handful of their conversations, and it produces the the story before the second meeting: the worst wrong answer, the exact article that caused it, and why that article is wrong. Today that's the motion that wins, and it's done by hand. Automated, I could send one to every qualified prospect, and give it to our BPO partners to open doors for us.
+**An automatic "trace pack."** Point it at a prospect's public help center plus a handful of their conversations, and it produces the story before the second meeting: the worst wrong answer, the exact article that caused it, and why that article is wrong. Today that's the motion that wins, and it's done by hand. Automated, I could send one to every qualified prospect, and give it to our BPO partners to open doors for us. We had a process like this at Console and it was very successful for drawing customers in. 
