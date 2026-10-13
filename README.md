@@ -1,6 +1,6 @@
 # Memo
 
-**The 90-second sentence**
+**Pitch**
 
 > "Your agent vendor can tell you a conversation went wrong; we're the independent check that tells you *which article* made it wrong and fixes it, so the next ten thousand answers come out right."
 
