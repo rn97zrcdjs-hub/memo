@@ -2,7 +2,7 @@
 
 **Pitch**
 
-> "Your agent vendor can tell you a conversation went wrong; we're the independent check that tells you *which article* made it wrong and fixes it, so the next ten thousand answers come out right."
+> Your agent vendor can tell you a conversation went wrong; we're the independent check that tells you *which article* made it wrong and fixes it, so future answers come out right.
 
 **Our weakest point, and what I'd say when a prospect finds it**
 
