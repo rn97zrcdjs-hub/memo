@@ -6,7 +6,7 @@
 
 **Our weakest point, and what I'd say when a prospect finds it**
 
-The agent vendors are building groundedness scoring themselves. Decagon told Northline it's coming in Q4, and we already lost Kingsway (D-005) to the same promise. Once grading is built in, "we grade your conversations" stops being enough. When a prospect raises it:
+The agent vendors are building groundedness scoring themselves (like Decagon). Once grading is built in, "we grade your conversations" stops being enough. When a prospect raises it:
 
 > "Good, use it. When it flags a bad answer, ask it two questions: which article caused this, and who fixes it? Their QA grades their own agent and stops at the conversation. We're the second opinion and the fix, and we stay with you if you add a second agent or switch vendors."
 
